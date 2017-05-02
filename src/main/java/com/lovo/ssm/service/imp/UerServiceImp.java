@@ -17,8 +17,7 @@ public class UerServiceImp implements UserService {
 	@Override
 	public UserBean login(String username, String password) {
 
-		UserBean user = um.getUserByNamePwd(username, password);
-		return user;
+		return um.getUserByNamePwd(username, password);
 	}
 
 }

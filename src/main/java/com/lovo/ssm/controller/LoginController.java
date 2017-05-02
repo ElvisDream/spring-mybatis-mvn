@@ -9,6 +9,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import javax.annotation.Resource;
 import javax.servlet.http.HttpServletRequest;
 
+@SuppressWarnings("ALL")
 @Controller
 public class LoginController {
 
@@ -25,5 +26,4 @@ public class LoginController {
 			return "login";
 		}
 	}
-
 }

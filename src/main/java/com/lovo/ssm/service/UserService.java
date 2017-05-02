@@ -4,6 +4,6 @@ import com.lovo.ssm.entity.UserBean;
 
 public interface UserService {
 	
-	public UserBean login(String username, String password);
+	UserBean login(String username, String password);
 	
 }

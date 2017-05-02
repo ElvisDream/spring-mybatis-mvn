@@ -23,8 +23,8 @@
           <element id="library" level="project" name="Maven: org.springframework:spring-test:4.2.0.RELEASE" />
           <element id="library" level="project" name="Maven: org.springframework:spring-aspects:4.2.0.RELEASE" />
           <element id="library" level="project" name="Maven: org.aspectj:aspectjweaver:1.8.6" />
-          <element id="library" level="project" name="Maven: org.springframework:spring-web:4.2.0.RELEASE" />
           <element id="library" level="project" name="Maven: org.springframework:spring-webmvc:4.2.0.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-web:4.2.0.RELEASE" />
           <element id="library" level="project" name="Maven: org.mybatis:mybatis:3.3.0" />
           <element id="library" level="project" name="Maven: org.mybatis:mybatis-spring:1.2.3" />
           <element id="library" level="project" name="Maven: org.apache.logging.log4j:log4j-core:2.7" />
